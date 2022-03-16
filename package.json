@@ -1,0 +1,19 @@
+{
+  "name": "@mohanrajgr/react-package-demo-two",
+  "version": "0.0.1",
+  "description": "demo package two",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohanrajGR/react-package-demo-two.git"
+  },
+  "author": "mohan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MohanrajGR/react-package-demo-two/issues"
+  },
+  "homepage": "https://github.com/MohanrajGR/react-package-demo-two#readme"
+}
